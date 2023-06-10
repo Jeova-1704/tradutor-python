@@ -14,18 +14,22 @@ Certifica-se de ter os seguintes pacotes instalados antes de executar o programa
 -  `pyperclip`
 
 ## Como usar:
-
+### Primeiro passo:
 ![Captura de tela_20230610_200301](https://github.com/Jeova-1704/tradutor-python/assets/127805808/06254052-897b-43f5-8d4f-bc14057255a7)
+- Inicializar o uso do programa e abrir ele.
 
-
+### Segundo passo:
 ![Captura de tela_20230610_200319](https://github.com/Jeova-1704/tradutor-python/assets/127805808/a148a3b3-8aa1-40c5-a9d7-87b57e31aea6)
+- Escolhar qual o idioma de origem e para qual idioma você deseja fazer a tradução.
 
-
+### Terceiro passo:
 ![Captura de tela_20230610_200357](https://github.com/Jeova-1704/tradutor-python/assets/127805808/fef53a98-7252-44d2-a701-4260e8597e77)
+- Apertar em 'Traduzir' e esperar o sistema processar o requeremento da API, para poder traduzir e fazer aparecer na tela.
 
+### Quarto passo:
 
 ![Captura de tela_20230610_200429](https://github.com/Jeova-1704/tradutor-python/assets/127805808/e5618b5a-b278-4cda-932d-f4a8de0e66cb)
-
+- Após isso você pode fazer o sistema de copia para a sua área de tranferência e assim poder usar a sua frase traduzida.
 
 ## Funcionalidades:
 - O programa permite selecionar o idioma de origem e o idioma de destino para a tradução.
