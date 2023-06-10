@@ -1,5 +1,8 @@
 # Tradutor em python
-# --JB Tradutor--
+
+<div align="center">
+<h1>--JB Tradutor--</h1>
+</div>
 
 ## Descrição:
 Um programa de tradução com interface grafica, sendo feita a utilização da API googletran,para a tradução do texto, pyperclip, para fazer a copia da tradução para a área de tranferência e a biblioteca do TKinter, para ser desenvolvida a interface grafica do projeto.
