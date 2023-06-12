@@ -52,6 +52,10 @@ Certifica-se de ter os seguintes pacotes instalados antes de executar o programa
 - `Googletrans` - API do gooogle para traduçao de texto em diversos idiomas. 
 - `TKinter` - Biblioteca para desenvolvimento de interface gráfica, sendo utilizada de forma para melhor visualização e compreensão do projeto.
 - `Pyperclip` - Biblioteca para usar um metodo, contido na biblioteca para copiar a tradução para a área de transferência.
+## Como executar o código:
+Para executar o meu programa primeiro clone o meu repositorio e inicialize o arquivo main.py.
+Caso não funcione, veja se as bibliotecas e a API estão instaladas em seu sistema e tente novamente.
+OBS: Esteja conectado na internet para executar o programa, pois a API nescessita dessa conexão.
 
 ## Como funciona o código:
 O código é feito em sistema com interface gráfica.
