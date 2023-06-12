@@ -27,7 +27,6 @@ Certifica-se de ter os seguintes pacotes instalados antes de executar o programa
 - Apertar em 'Traduzir' e esperar o sistema processar o requeremento da API, para poder traduzir e fazer aparecer na tela.
 
 ### Quarto passo:
-
 ![Captura de tela_20230610_200429](https://github.com/Jeova-1704/tradutor-python/assets/127805808/e5618b5a-b278-4cda-932d-f4a8de0e66cb)
 - Após isso você pode fazer o sistema de copia para a sua área de tranferência e assim poder usar a sua frase traduzida.
 
@@ -36,6 +35,17 @@ Certifica-se de ter os seguintes pacotes instalados antes de executar o programa
 - Digite o texto que deseja traduzir no campo de entrada e clique no botão "Traduzir" para obter a tradução.
 - O texto traduzido será exibido no campo de saída.
 - O botão "Copiar" permite copiar o texto traduzido para a área de transferência.
+
+## Idiomas suportados:
+- `en` - Inglês
+- `pt` - Português
+- `fr` - Frances
+- `de` - Alemão
+- `it` - Italiano
+- `ja` - Japonês
+- `ru` - Russo
+- `es` - Espanhol
+
 
 
 ## importações:
@@ -62,3 +72,10 @@ São três metodos que são utilizados para organização, implementação e de 
 - `traducao` - Função que faz todo o sistama de tradução do programa, onde faz o uso da API e recebe os idiomas selecionados por meio do metodo get e faz a sua tradução
 - `copiar` - Fução que faz a copia da tradução para a sua área de tranferência quando presionado o botão de copia.
 
+## Notas
+- Certifique-se de estar conectado à Internet para que o programa possa acessar a API do Google Translate.
+- Nem todos os idiomas são suportados pela API do Google Translate. Verifique a documentação para obter a lista completa dos idiomas suportados.
+
+Espero que esta documentação ajude você a entender e utilizar o JB Tradutor. Em caso de dúvidas ou problemas, sinta-se à vontade para entrar em contato.
+
+<h2>Sinta-se traduzido!</h2>
