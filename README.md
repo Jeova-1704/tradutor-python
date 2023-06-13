@@ -83,3 +83,4 @@ São três metodos que são utilizados para organização, implementação e de 
 Espero que esta documentação ajude você a entender e utilizar o JB Tradutor. Em caso de dúvidas ou problemas, sinta-se à vontade para entrar em contato.
 
 <h2>Sinta-se traduzido!</h2>
+by: Jeová Bezerra Leite or Jeova-1704
