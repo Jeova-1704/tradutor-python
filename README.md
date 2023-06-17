@@ -62,14 +62,6 @@ O código é feito em sistema com interface gráfica.
  - O código começa com um a varivael janela sendo inciada com um TK(), que inicia a interface 
  - Encerra com um main.loop() que é onde reinicia o loop da janela e atualliza a interface.
 
-## Cores:
-São cinco váriaveis, onde nelas estão contidas as cores em hexadecimal, que são usadas na interface:
-- Cor1 - Cor preta
-- Cor2 - Cor branca  
-- Cor3 - Cor azul fosco
-- Cor4 - Cor azul escuro
-- Cor5 - Cor azul claro 
-
 ## Metodos:
 São três metodos que são utilizados para organização, implementação e de forma funcional para desenvolver o sistama, são eles:
 - `centralizar_janela` - função que centraliza a abertura da janela no meio da tela, por meio de um calculo e de informações da sua tela e que se adapta de acordo com o tamanho do seu monitor.
@@ -79,8 +71,11 @@ São três metodos que são utilizados para organização, implementação e de 
 ## Notas
 - Certifique-se de estar conectado à Internet para que o programa possa acessar a API do Google Translate.
 - Nem todos os idiomas são suportados pela API do Google Translate. Verifique a documentação para obter a lista completa dos idiomas suportados.
-
+## Ideias para novas implementações:
+- Sistema de voz (Quando traduzido, tera uma opção de clicar em um botão e ouvir o seu texto traduzido no idioma escolhido)
+  
 Espero que esta documentação ajude você a entender e utilizar o JB Tradutor. Em caso de dúvidas ou problemas, sinta-se à vontade para entrar em contato.
 
-<h2>Sinta-se traduzido!</h2>
+
+<h2>Obrigado por visitar o meu projeto!</h2>
 by: Jeová Bezerra Leite or Jeova-1704
